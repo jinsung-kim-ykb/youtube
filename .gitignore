@@ -1,0 +1,5 @@
+ffmpeg.exe
+__pycache__/
+*.spec
+build/
+dist/
